@@ -4,7 +4,7 @@ import { Box } from "@mui/material";
 
 export const metadata = {
     title: "Eugene Jang",
-    description: "Next.js App Router + Material UI v5",
+    description: "This is Eugene Jang",
 };
 
 
