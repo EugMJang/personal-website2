@@ -1,5 +1,8 @@
 Cache’em All
 https://github.com/EugMJang/Cache-em_all
 Nov 2020
-Streamlined sending long links to other people via Chrome extension by encoding a link into a sequence of images, storing it in a relational database using PostgreSQL, and opening the link when given matching sequence of images
-Designed serverless REST API with Google Cloud function and JQuery capable of handling high volumes of client requests
+PostgreSQL, JavaScript, Google Cloud Platform, JQuery
+cache.png
+Won “Best CockroachDB hack” out of 50 teams in hackathon at UofT NewHacks
+Created an innovative browser extension that encodes and stores links as sequences of images in a relational database using PostgreSQL
+Designed REST API with Google Cloud function and JQuery, capable of handling high volumes of client requests

@@ -11,9 +11,11 @@ export function getProjectData() {
             name: content[0],
             url: content[1],
             date: content[2],
+            languages: content[3],
+            img: "/images/" + content[4],
             desc: []
         }
-        for (let i = 3; i < content.length; i++) {
+        for (let i = 5; i < content.length; i++) {
             data['desc'].push(content[i])
         }
         return data

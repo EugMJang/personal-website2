@@ -1,4 +1,6 @@
 PokéWeaknesses
 https://github.com/EugMJang/PokeWeaknesses
 Jul 2021
-Enhanced user’s experience of pre-existing Pokémon battle simulator by retrieving the names of each Pokémon via web scraping and displaying type effectiveness of each Pokémon through the use of a preexisting REST API
+Chrome Runtime API, JavaScript
+pokeweak.gif
+Enhanced user experience of a popular Pokémon battle simulator by leveraging web scraping techniques to extract monster names and inject type effectiveness information using JavaScript fetch with the official game API

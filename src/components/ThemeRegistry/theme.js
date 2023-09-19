@@ -26,8 +26,9 @@ const theme = createTheme({
             fontFamily: "Red Hat Display",
         },
         h3: {
+            color: "#07152eff",
             fontFamily: "Red Hat Display",
-            fontSize: "2.4rem"
+            fontSize: "2.4rem",
         },
         body1: {
             fontSize: "1.25rem",

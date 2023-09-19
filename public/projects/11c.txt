@@ -1,0 +1,7 @@
+C Compiler
+no link
+May 2023
+OCaml
+c.jpg
+Independently developed a printer, parser, and lexer for a simplified version of C using OCaml
+Designed comprehensive unit tests written in OCaml to ensure a robust and error-free implementation
