@@ -1,4 +1,4 @@
-C Compiler
+C Interpreter
 no link
 May 2023
 OCaml
